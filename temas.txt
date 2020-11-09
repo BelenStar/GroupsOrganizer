@@ -1,0 +1,16 @@
+1.IA
+2.IoT
+3.Big data
+4.Realidad virtual
+5.Bitcoins
+6.Blockchain
+7.Robotica
+8.Biotecnologia
+9.Carros autonomos
+10.Desarrollo web
+11.Desarrollo movil
+12.Flutter
+13.Kotlin
+14.React Native
+15.Swift
+16.Software

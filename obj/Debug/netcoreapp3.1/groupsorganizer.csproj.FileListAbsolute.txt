@@ -1,0 +1,13 @@
+C:\Users\nelly\Documents\ATendencia\GroupsOrganizer\obj\Debug\netcoreapp3.1\groupsorganizer.csprojAssemblyReference.cache
+C:\Users\nelly\Documents\ATendencia\GroupsOrganizer\obj\Debug\netcoreapp3.1\groupsorganizer.AssemblyInfoInputs.cache
+C:\Users\nelly\Documents\ATendencia\GroupsOrganizer\obj\Debug\netcoreapp3.1\groupsorganizer.AssemblyInfo.cs
+C:\Users\nelly\Documents\ATendencia\GroupsOrganizer\obj\Debug\netcoreapp3.1\groupsorganizer.csproj.CoreCompileInputs.cache
+C:\Users\nelly\documents\atendencia\groupsorganizer\bin\Debug\netcoreapp3.1\groupsorganizer.exe
+C:\Users\nelly\documents\atendencia\groupsorganizer\bin\Debug\netcoreapp3.1\groupsorganizer.deps.json
+C:\Users\nelly\documents\atendencia\groupsorganizer\bin\Debug\netcoreapp3.1\groupsorganizer.runtimeconfig.json
+C:\Users\nelly\documents\atendencia\groupsorganizer\bin\Debug\netcoreapp3.1\groupsorganizer.runtimeconfig.dev.json
+C:\Users\nelly\documents\atendencia\groupsorganizer\bin\Debug\netcoreapp3.1\groupsorganizer.dll
+C:\Users\nelly\documents\atendencia\groupsorganizer\bin\Debug\netcoreapp3.1\groupsorganizer.pdb
+C:\Users\nelly\documents\atendencia\groupsorganizer\obj\Debug\netcoreapp3.1\groupsorganizer.dll
+C:\Users\nelly\documents\atendencia\groupsorganizer\obj\Debug\netcoreapp3.1\groupsorganizer.pdb
+C:\Users\nelly\documents\atendencia\groupsorganizer\obj\Debug\netcoreapp3.1\groupsorganizer.genruntimeconfig.cache
